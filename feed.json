@@ -1,0 +1,44 @@
+{
+  "_ajuda": "Feed do Wasteland BR Launcher. Edite no GitHub e todos os launchers pegam em até 5 minutos. img sem http = imagem embutida (hero.jpg, toxica.jpg, fallout.jpg, caixa.png, medalhao.png, logo.png). foto=true: imagem de fundo; sem foto: objeto centralizado.",
+  "colecao": "",
+  "reinicios": [0, 6, 12, 18],
+  "launcher": { "versao": "2.4", "url": "https://github.com/Maiky636/wasteland-launcher/releases/latest/download/Wasteland_BR_Launcher.exe", "notas": "Atualizacao automatica pelo GitHub, Sala VIP com fotos novas e chaves da Caixa." },
+  "alertas": [
+    "SOFT WIPE CONCLUÍDO: loot, carros e zumbis renovados no mundo todo",
+    "Ninguém perdeu personagem, safehouse ou carro claimado",
+    "CAIXA MISTERIOSA na loja Equipamentos: 1.500 WM",
+    "LOGIN DIÁRIO: 30 dias de prêmios, dia 30 com chance de ARCANO",
+    "EERIE COUNTRY: novas zonas tóxicas, use máscara de gás",
+    "Zona de radiação exige hazmat + máscara"
+  ],
+  "noticias": [
+    { "arq": "045", "cat": "O MUNDO RENASCEU", "titulo": "SOFT WIPE", "selo": "SOFT WIPE", "cor": "#8cff4f", "img": "hero.jpg", "foto": true,
+      "resumo": "Loot, carros e zumbis novos.",
+      "itens": ["Mapa resetado com loot novo em casas, lojas e cidades.", "Carros e zumbis renovados no mundo todo.",
+                "Personagem, banco, missões, conquistas e habilidades mantidos.", "Safehouses ativas e carros claimados ficaram onde estavam."] },
+    { "arq": "044", "cat": "LOJA", "titulo": "CAIXA MISTERIOSA", "cor": "#ff9b2f", "img": "caixa.png",
+      "resumo": "Raro, Lendário ou Arcano.",
+      "itens": ["1.500 WM na loja Equipamentos do botão W.", "Sai 1 item Raro, Lendário ou Arcano."] },
+    { "arq": "043", "cat": "RECOMPENSAS", "titulo": "LOGIN DIÁRIO", "cor": "#ffc93a", "img": "medalhao.png",
+      "resumo": "30 dias de prêmios.",
+      "itens": ["30 dias de prêmios: WM, XP, munição e kits.", "Dia 30: sorteio da loja com chance de Arcano."] },
+    { "arq": "042", "cat": "MAPA", "titulo": "EERIE COUNTRY", "cor": "#8cff4f", "img": "toxica.jpg", "foto": true,
+      "resumo": "Zonas tóxicas novas.",
+      "itens": ["Novas zonas tóxicas e de radiação.", "Entradas consertadas: estradas ligadas ao mapa."] }
+  ],
+  "regras": [
+    "RESPEITO: sem ofensas, racismo, preconceito ou assédio no chat e no voice.",
+    "PVP: só nas áreas de PvP marcadas no mapa. Nas áreas PvE, atacar ou matar outro jogador é proibido.",
+    "RAIDS: estão desativadas. É proibido invadir, destruir ou saquear base/claim de outro jogador.",
+    "CLAIM: casas e veículos podem ser protegidos. O claim dura 7 dias sem o dono entrar.",
+    "PROIBIDO: hack, cheat, macro, exploit de bug ou duplicação de item. Achou um bug? Avise a staff no Discord.",
+    "MERCADO: golpe em negociação entre jogadores é proibido. Use as lojas e o banco do servidor.",
+    "NOMES: nada de nome ofensivo em personagem, loja ou placa.",
+    "STAFF: a decisão da staff é final. Dúvidas e denúncias: Discord do servidor."
+  ],
+  "vip": [
+    { "nome": "BRONZE", "cor": "#d08a4a", "preco": "", "itens": ["+10 WM por dia no banco", "Recompensa diária x1,25", "5% de desconto na concessionária", "+5 vagas na sua loja"] },
+    { "nome": "PRATA", "cor": "#c9d3dc", "preco": "", "itens": ["+25 WM por dia no banco", "Recompensa diária x1,5", "10% de desconto na concessionária", "+10 vagas na sua loja", "Kit leve ao renascer"] },
+    { "nome": "OURO", "cor": "#ffc93a", "preco": "", "itens": ["+50 WM por dia no banco", "Recompensa diária x2", "15% de desconto na concessionária", "+15 vagas na sua loja", "Kit completo ao renascer"] }
+  ]
+}
