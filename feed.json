@@ -2,7 +2,7 @@
   "_ajuda": "Feed do Wasteland BR Launcher. Edite no GitHub e todos os launchers pegam em até 5 minutos. img sem http = imagem embutida (hero.jpg, toxica.jpg, fallout.jpg, caixa.png, medalhao.png, logo.png). foto=true: imagem de fundo; sem foto: objeto centralizado.",
   "colecao": "",
   "reinicios": [0, 6, 12, 18],
-  "launcher": { "versao": "2.4", "url": "https://github.com/Maiky636/wasteland-launcher/releases/latest/download/Wasteland_BR_Launcher.exe", "notas": "Atualizacao automatica pelo GitHub, Sala VIP com fotos novas e chaves da Caixa." },
+  "launcher": { "versao": "2.5", "url": "https://github.com/Maiky636/wasteland-launcher/releases/latest/download/Wasteland_BR_Launcher.exe", "notas": "Sala dos Doadores nova: carros novos (Defender, MAN KAT1, Cossack), pacotes com Passe VIP, Pacote Demon e escrituras com WM." },
   "alertas": [
     "SOFT WIPE CONCLUÍDO: loot, carros e zumbis renovados no mundo todo",
     "Ninguém perdeu personagem, safehouse ou carro claimado",
